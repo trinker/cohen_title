@@ -1,127 +1,115 @@
-The Earth Is Round (p < .05) _
+The Earth Is Round (p < .05)
+
+_
+
 Jacob Cohen
- 
-After 4 decades of severe criticism, the ritual ofnull hy-
-pothesis signi?cance testingómechanical dichotomous
-decisions around a sacred .05 criterionóstill persists. This
+
+After 4 decades of severe criticism, the ritual of null hypothesis signiÔ¨Åcance testing‚Äîmechanical dichotomous
+decisions around a sacred .05 criterion‚Äîstill persists. This
 article reviews the problems with this practice, including
 its near-universal misinterpretation ofp as the probability
 that H0 isfalse, the misinterpretation that its complement
-is the probability of successful replication, and the mis-
-taken assumption that ifone rejects H0 one thereby a?irms
+is the probability of successful replication, and the mistaken assumption that ifone rejects H0 one thereby aÔ¨Çirms
 the theory that led to the test. Exploratory data analysis
 and the use ofgraphic methods, a steady improvement in
 and a movement toward standardization in measurement,
-an emphasis on estimating e?ect sizes using con?dence
+an emphasis on estimating eÔ¨Çect sizes using conÔ¨Ådence
 intervals, and the informed use of available statistical
 methods is suggested. For generalization, psychologists
-must?nally rely; as has been done in all the older sciences,
+mustÔ¨Ånally rely; as has been done in all the older sciences,
 on replication.
 make no pretense of the originality of my remarks
-in this article. One of the few things we, as psychol-
-ogists, have learned from over a century of scienti?c
+in this article. One of the few things we, as psychologists, have learned from over a century of scientiÔ¨Åc
 study is that at age three score and 10, originality is not
 to be expected. David Bakan said back in 1966 that his
-claim that ìa great deal of mischief has been associatedî
-with the test of signi?cance ìis hardly original,î that it
-is ìwhat ëeverybody knows.,îí and that ìto say it ëout
-loudë is . . . to assume the role of the child who pointed
-out that the emperor was really out?tted in his under-
-wearî (p. 423). If it was hardly original in 1966, it can
+claim that ‚Äúa great deal of mischief has been associated‚Äù
+with the test of signiÔ¨Åcance ‚Äúis hardly original,‚Äù that it
+is ‚Äúwhat ‚Äòeverybody knows.,‚Äù‚Äô and that ‚Äúto say it ‚Äòout
+loud‚Äò is . . . to assume the role of the child who pointed
+out that the emperor was really outÔ¨Åtted in his underwear‚Äù (p. 423). If it was hardly original in 1966, it can
 hardly be original now. Yet this naked emperor has been
 shamelessly running around for a long time.
-Like many men my age, I mostly grouse. My ha-
-rangue today is on testing for statistical signi?cance, about
-which Bill Rozeboom (1960) wrote 33 years ago, ìThe
+Like many men my age, I mostly grouse. My harangue today is on testing for statistical signiÔ¨Åcance, about
+which Bill Rozeboom (1960) wrote 33 years ago, ‚ÄúThe
 statistical folkways of a more primitive past continue to
-dominate the local sceneî (p. 417).
+dominate the local scene‚Äù (p. 417).
 And today, they continue to continue. And we, as
 teachers, consultants, authors, and otherwise perpetrators
-of quantitative methods, are responsible for the rituali-
-zation of null hypothesis signi?cance testing (NHST; I
-resisted the temptation to call it statistical hypothesis in-
-ference testing) to the point of meaninglessness and be-
-yond. I argue herein that NHST has not only failed to
+of quantitative methods, are responsible for the ritualization of null hypothesis signiÔ¨Åcance testing (NHST; I
+resisted the temptation to call it statistical hypothesis inference testing) to the point of meaninglessness and beyond. I argue herein that NHST has not only failed to
 support the advance of psychology as a science but also
 has seriously impeded it.
 Consider the following: A colleague approaches me
 with a statistical problem. He believes that a generally
 rare disease does not exist at all in a given population,
 hence H0: P = O. He draws a more or less random sample
-of 30 cases from this population and ?nds that one of the
+of 30 cases from this population and Ô¨Ånds that one of the
 cases has the disease, hence P, = 1/30 = .033. He is not
-sure how to test H0, chi-square with Yatesís (1951) cor-
-rection or the Fisher exact test, and wonders whether he
+December 1994 - American Psychologist
+Copyright I994 by the American Psychological Association, Inc. 0003-O66X/94/$2.00
+Vol. 49. No. 12, 99?-1003
+
+sure how to test H0, chi-square with Yates‚Äôs (1951) correction or the Fisher exact test, and wonders whether he
 has enough power. Would you believe it? And would you
 believe that if he tried to publish this result without a
-signi?cance test, one or more reviewers might complain?
+signiÔ¨Åcance test, one or more reviewers might complain?
 It could happen.
-Almost a quarter of a century ago, a couple of so-
-ciologists, D. E. Morrison and R. E. Henkel (1970), edited
-a book entitled The Signi?cance Test Controversy. Among
+Almost a quarter of a century ago, a couple of sociologists, D. E. Morrison and R. E. Henkel (1970), edited
+a book entitled The SigniÔ¨Åcance Test Controversy. Among
 the contributors were Bill Rozeboom (1960), Paul Meehl
 (1967), David Bakan (1966), and David Lykken (1968).
 Without exception, they damned NHST. For example,
-Meehl described NHST as ìa potent but sterile intellec-
-tual rake who leaves in his merry path a long train of
-ravished maidens but no viable scienti?c offspringî (p.
-265). They were, however, by no means the ?rst to do so.
+Meehl described NHST as ‚Äúa potent but sterile intellectual rake who leaves in his merry path a long train of
+ravished maidens but no viable scientiÔ¨Åc offspring‚Äù (p.
+265). They were, however, by no means the Ô¨Årst to do so.
 Joseph Berkson attacked NHST in I938, even before it
-sank its deep roots in psychology. Lancelot Hogbenís
+sank its deep roots in psychology. Lancelot Hogben‚Äôs
 book-length critique appeared in 1957. When I read it
 then, I was appalled by its rank apostasy. I was at that
 time well trained in the current Fisherian dogma and had
-not yet heard of Neyman-Pearson (try to ?nd a reference
-to them in the statistics texts of that dayóMcNemar,
+not yet heard of Neyman-Pearson (try to Ô¨Ånd a reference
+to them in the statistics texts of that day‚ÄîMcNemar,
 Edwards, Guilford, Walker). Indeed, I had already had
 some dizzying success as a purveyor of plain and fancy
-NHST to my fellow clinicians in the Veterans Adminis-
-tration.
-Whatís wrong with NHST? Well, among many other
+NHST to my fellow clinicians in the Veterans Administration.
+What‚Äôs wrong with NHST? Well, among many other
 things, it does not tell us what we want to know, and we
 so much want to know what we want to know that, out
-ofdesperation, we nevertheless believe that it does! What
-we want to know is ìGiven these data, what is the prob-
-ability that H0 is true?î But as most of us know, what it
-tells us is ìGiven that H0 is true, what is the probability
-of these (or more extreme) data?î These are not the same,
+of desperation, we nevertheless believe that it does! What
+we want to know is ‚ÄúGiven these data, what is the probability that H0 is true?‚Äù But as most of us know, what it
+tells us is ‚ÄúGiven that H0 is true, what is the probability
+of these (or more extreme) data?‚Äù These are not the same,
 as has been pointed out many times over the years by the
 contributors to the Morrison-Henkel (1970) book, among
 J. Bruce Overmier served as action editor for this article.
 This article was originally an address given for the Saul B. Sells
-Memorial Lifetime Achievement Award, Society ofMultivariate Exper-
-imental Psychology, San Pedro, California, October 29, I993.
+Memorial Lifetime Achievement Award, Society of Multivariate Experimental Psychology, San Pedro, California, October 29, I993.
 I have made good use of the comments made on a preliminary
 draft of this article by Patricia Cohen and other colleagues: Robert P.
 Abelson, David Bakan, Michael Borenstein, Robyn M. Dawes, Ruma
-Falk, Gerd Gigerenzer, Charles Greenbaum, Raymond A. Katzell, Don-
-ald F. Klein, Robert S. Lee, Paul E. Meehl, Stanley A. Mulaik, Robert
+Falk, Gerd Gigerenzer, Charles Greenbaum, Raymond A. Katzell, Donald F. Klein, Robert S. Lee, Paul E. Meehl, Stanley A. Mulaik, Robert
 Rosenthal, William W. Rozeboom, Elia Sinaiko, Judith D. Singer, and
 Bruce Thompson. I also acknowledge the help I received from reviewers
 David Lykken, Matt McGue, and Paul Slovic.
 Correspondence concerning this article should be addressed to Jacob
 Cohen, Department of Psychology, New York University, 6 Washington
 Place, 5th Floor, New York, NY l00O3.
- 
-December 1994 - American Psychologist
-Copyright I994 by the American Psychological Association, Inc. 0003-O66X/94/$2.00
-Vol. 49. No. 12, 99?-1003
+
 997
-others, and, more recently and emphatically, by Meehl
+
+others, and, more recently and emphatically, by Meehl
 (I978, 1986, 1990a, l990b), Gigerenzer(l993), Falk and
 Greenbaum (in press), and yours truly (Cohen, I990).
+
 The Permanent Illusion
 One problem arises from a misapplication of deductive
 syllogistic reasoning. Falk and Greenbaum (in press)
-called this the ìillusion of probabilistic proof by contra-
-dictionî or the ìillusion ofattaining improbability.î Gig-
-erenzer (I993) called it the ìpermanent illusionî and the
-ìBayesian ldís wishful thinking,î part of the ìhybrid
-logicî of contemporary statistical inference--a mishmash
+called this the ‚Äúillusion of probabilistic proof by contradiction‚Äù or the ‚Äúillusion of attaining improbability.‚Äù Gigerenzer (I993) called it the ‚Äúpermanent illusion‚Äù and the
+‚ÄúBayesian ld‚Äôs wishful thinking,‚Äù part of the ‚Äúhybrid
+logic‚Äù of contemporary statistical inference--a mishmash
 of Fisher and Neyman-Pearson, with invalid Bayesian
 interpretation. It is the widespread belief that the level of
-signi?cance at which HO is rejected. say .05, is the prob-
-ability that it is correct or, at the very least, that it is of
+signiÔ¨Åcance at which HO is rejected. say .05, is the probability that it is correct or, at the very least, that it is of
 low probability.
 The following is almost but not quite the reasoning
 of null hypothesis rejection:
@@ -129,52 +117,71 @@ If the null hypothesis is correct, then this datum (D) can not
 occun
 It has, however, occurred.
 Therefore, the null hypothesis is false.
+
 If this were the reasoning ofH0 testing, then it would
 be formally correct. It would be what Aristotle called the
 modus tollens, denying the antecedent by denying the
-consequent. But this is not the reasoning of NHST. In-
-stead. it makes this reasoning probabilistic, as follows:
-If the null hypothesis is correct, then these data are highly un-
-likely.
+consequent. But this is not the reasoning of NHST. Instead. it makes this reasoning probabilistic, as follows:
+If the null hypothesis is correct, then these data are highly unlikely.
 These data have occurred.
 Therefore, the null hypothesis is highly unlikely.
+
 By making it probabilistic, it becomes invalid. Why?
 Well, consider this:
-The following syllogism is sensible and also the for-
-mally correct modus tollens:
+The following syllogism is sensible and also the formally correct modus tollens:
 If a person is a Martian, then he is not a member of Congress.
 This person is a member of Congress.
 Therefore. he is not a Martian.
+
 Sounds reasonable, no? This next syllogism is not
-sensible because the major premise is wrong, but the rea-
-soning is as before and still a formally correct modus
+sensible because the major premise is wrong, but the reasoning is as before and still a formally correct modus
 tollens:
-If a person is an American, then he is not a member ofCongress.
-(WRONG!) .
+If a person is an American, then he is not a member of Congress.
+(WRONG!)
+.
 This person is a member of Congress.
 Therefore, he is not an American.
+
 If the major premise is made sensible by making it
-probabilistic, not absolute, the syllogism becomes for-
-mally incorrect and leads to a conclusion that is not sen-
-sible:
+probabilistic, not absolute, the syllogism becomes formally incorrect and leads to a conclusion that is not sensible:
 If a person is an American, then he is probably not a member
 of Congress. (TRUE, RIGHT?)
 This person is a member of Congress.
-in ___' j 4i in 1 1 i 1 F
+in
+
 998
+
+___'
+
+j
+
+4i
+
+in
+
+1
+
+1
+
+i
+
+1
+
 Therefore, he is probably not an American. (Pollard &
 Richardson, I987)
+
 This is formally exactly the same as
-If HO is true, then this result (statistical signi?cance) would
+If HO is true, then this result (statistical signiÔ¨Åcance) would
 probably not occur.
 This result has occurred.
 Then H0 is probably not true and therefore formally invalid.
+
 This formulation appears at least implicitly in article after
 article in psychological journals and explicitly in some
-statistics textbooksóìthe illusion of attaining improba-
-bility.î
+statistics textbooks‚Äî‚Äúthe illusion of attaining improbability.‚Äù
+
 Why P(DIHo) ab P(HoID)
-When one tests H0, one is ?nding the probability that the
+When one tests H0, one is Ô¨Ånding the probability that the
 data (D) could have arisen if H0 were true, P(D|H0). If
 that probability is small, then it can be concluded that if
 H0 is true, then D is unlikely. Now, what really is at issue,
@@ -182,33 +189,32 @@ what is always the real issue, is the probability that H0 is
 true, given the data, P(H0{D), the inverse probability.
 When one rejects H0, one wants to conclude that H0 is
 unlikely, say, p < .01. The very reason the statistical test
-is done is to be able to reject H0 because of its unlikeli-
-hood! But that is the posterior probability, available only
-through Bayesís theorem, for which one needs to know
+is done is to be able to reject H0 because of its unlikelihood! But that is the posterior probability, available only
+through Bayes‚Äôs theorem, for which one needs to know
 P(H0), the probability of the null hypothesis before the
-experiment, the ìpriorî probability.
+experiment, the ‚Äúprior‚Äù probability.
 Now, one does not normally know the probability
 of H0. Bayesian statisticians cope with this problem by
-positing a prior probability or distribution ofprobabilities.
+positing a prior probability or distribution of probabilities.
 But an example from psychiatric diagnosis in which one
 knows P(H0) is illuminating:
 The incidence of schizophrenia in adults is about
 2%. A proposed screening test is estimated to have at least
-95% accuracy in making the positive diagnosis (sensitiv-
-ity) and about 97% accuracy in declaring normality
-(speci?city). Formally stated, P(normal 1 H0) aw .97,
-P(schizophreniaßH,) > .95. So. let
+95% accuracy in making the positive diagnosis (sensitivity) and about 97% accuracy in declaring normality
+(speciÔ¨Åcity). Formally stated, P(normal 1 H0) aw .97,
+P(schizophrenia¬ßH,) > .95. So. let
 H0 = The case is normal, so that
 H, I The case is schizophrenic, and
 D = The test result (the data) is positive for schizophrenia.
+
 With a positive test for schizophrenia at hand,
 given the more than .95 assumed accuracy of the test,
-P(D ß H@.)óthe probability of a positive test given that the
-case is normal-óis less than .05, that is, signi?cant at p
+P(D ¬ß H@.)‚Äîthe probability of a positive test given that the
+case is normal-‚Äîis less than .05, that is, signiÔ¨Åcant at p
 < .05. One would reject the hypothesis that the case is
 normal and conclude that the case has schizophrenia, as
 it happens mistakenly, but within the .05 alpha error. But
-thatís not the point.
+that‚Äôs not the point.
 The probability of the case being normal, P(HO),
 given a positive test (D), that is, P(H0 I D), is not what has
 just been discovered however much it sounds like it and
@@ -216,157 +222,175 @@ however much it is wished to be. It is not true that the
 probability that the case is normal is less than .05, nor is
 it even unlikely that it is a normal case. By a Bayesian
 maneuver, this inverse probability, the probability that
+
+F
+
 December I994 - American Psychologist
-the case is normal, given a positive test for schizophrenia,
+
+the case is normal, given a positive test for schizophrenia,
 is about .60! The arithmetic follows:
-P(H0lD)
-_ _, P(H0),f,P_(f¢ßt Wrong i H0),,_,, ,__ _
+
+_,
+
+P(H0),f,P_(f¬¢¬ßt Wrong i H0),,_,, ,__
+
+_
+
 P(H0)*P(test wrongIH0) + P(H,)*P(test correct I H1)
-(.93)(.03) .0294
+(.93)(.03)
+
+incidentally offered an explanation of the neglect of power
+analysis because of the near universality of this inverse
+probability error:
+‚Äò
+
+P(H0lD)
+_
+
+psychologists studied by Oakes (1986, pp. 79-82). Oakes
+
+hypothesis being false? (p. 83)
+
+.0294
+
 (.9s)(.03) + (.02)(.95) T 100294 + .0190 P 607
 The situation may be made clearer by expressing it
 approximately as a 2 >< 2 table for 1,000 cases. The case
 actually is
-Result Normal Schiz Total
-Negative test (Normal) 949 1 950
-Positive test (Schiz) 30 20 50
-Total 979 2 1 I ,000
+Result
+
+Normal
+
+Schiz
+
+Total
+
+Negative test (Normal)
+Positive test (Schiz)
+Total
+
+949
+30
+979
+
+1
+20
+21
+
+950
+50
+I ,000
+
 As the table shows, the conditional probability of a
 normal case for those testing as schizophrenic is not
 small--of the 50 cases testing as schizophrenics, 30 are
 false positives, actually normal, 60% of them!
 This extreme result occurs because of the low base
 rate for schizophrenia, but it demonstrates how wrong
-one can be by considering the p value from a typical sig-
-ni?cance test as bearing on the truth of the null hypothesis
+one can be by considering the p value from a typical signiÔ¨Åcance test as bearing on the truth of the null hypothesis
 for a set of data.
 It should not be inferred from this example that all
 null hypothesis testing requires a Bayesian prior. There
 is a form of H0 testing that has been used in astronomy
 and physics for centuries, what Meehl (1967) called the
-ìstrongî form, as advocated by Karl Popper (1959). Pop-
-per proposed that a scienti?c theory be tested by attempts
+‚Äústrong‚Äù form, as advocated by Karl Popper (1959). Popper proposed that a scientiÔ¨Åc theory be tested by attempts
 to falsify it. In null hypothesis testing terms, one takes a
 central prediction of the theory, say, a point value of some
 crucial variable, sets it up as the H0, and challenges the
 theory by attempting to reject it. This is certainly a valid
 procedure, potentially even more useful when used in
-con?dence interval form. What I and my ilk decry is the
-ìweakî form in which theories are ìcon?rmedî by re-
-jecting null hypotheses.
+conÔ¨Ådence interval form. What I and my ilk decry is the
+‚Äúweak‚Äù form in which theories are ‚ÄúconÔ¨Årmed‚Äù by rejecting null hypotheses.
 The inverse probability error in interpreting H0 is
 not reserved for the great unwashed, but appears many
 times in statistical textbooks (although frequently together
 with the correct interpretation, whose authors apparently
 think they are interchangeable). Among the distinguished
-authors making this error are Guilford, Nunnally, An-
-astasi, Ferguson, and Lindquist. Many examples of this
+authors making this error are Guilford, Nunnally, Anastasi, Ferguson, and Lindquist. Many examples of this
 error are given by Robyn Dawes (I988, pp. 70-75); Falk
-and Greenbaum (in press); Gigerenzer (1993, pp. 316-
-329), who also nailed R. A. Fisher (who emphatically
+and Greenbaum (in press); Gigerenzer (1993, pp. 316329), who also nailed R. A. Fisher (who emphatically
 rejected Bayesian theory of inverse probability but slipped
 into invalid Bayesian interpretations of NHST (p. 318);
 and Oakes (I986, pp. I7-20), who also nailed me for this
 error (p. 20).
-The illusion ofattaining improbability or the Bayes-
-ian Idís wishful thinking error in using NHST is very
+The illusion of attaining improbability or the Bayesian Id‚Äôs wishful thinking error in using NHST is very
 easy to make. It was made by 68 out of 70 academic
-psychologists studied by Oakes (1986, pp. 79-82). Oakes
-incidentally offered an explanation of the neglect of power
-analysis because of the near universality of this inverse
-probability error: ë
+December I994 - American Psychologist
+
 After all, why worry about the probability of obtaining data
 that will lead to the rejection of the null hypothesis if it is false
 when your analysis gives you the actual probability of the null
-hypothesis being false? (p. 83)
+
 A problem that follows readily from the Bayesian
-Idís wishful thinking error is the belief that after a suc-
-cessful rejection of H0, it is highly probable that repli-
-cations of the research will also result in H0 rejection. In
-their classic article ìThe Belief in the Law ofSmall Num-
-bers,î Tversky and Kahneman (1971) showed that be-
-cause peopIeís intuitions that data drawn randomly from
+Id‚Äôs wishful thinking error is the belief that after a successful rejection of H0, it is highly probable that replications of the research will also result in H0 rejection. In
+their classic article ‚ÄúThe Belief in the Law of Small Numbers,‚Äù Tversky and Kahneman (1971) showed that because peopIe‚Äôs intuitions that data drawn randomly from
 a population are highly representative, most members of
 the audience at an American Psychological Association
 meeting and at a mathematical psychology conference
-believed that a study with a signi?cant result would rep-
-licate with a signi?cant result in a small sample (p. I05).
-Of Oakesís (1986) academic psychologists 42 out of 70
+believed that a study with a signiÔ¨Åcant result would replicate with a signiÔ¨Åcant result in a small sample (p. I05).
+Of Oakes‚Äôs (1986) academic psychologists 42 out of 70
 believed that a t of 2.7, with df= 18 and p = .01, meant
-that if the experiment were repeated many times, a sig-
-ni?cant result would be obtained 99% of the time. Ro-
-senthal (I993) said with regard to this replication fallacy
-that ìNothing could be further from the truthî (p. 542f)
+that if the experiment were repeated many times, a signiÔ¨Åcant result would be obtained 99% of the time. Rosenthal (I993) said with regard to this replication fallacy
+that ‚ÄúNothing could be further from the truth‚Äù (p. 542f)
 and pointed out that given the typical .50 level of power
 for medium effect sizes at which most behavioral scientists
-work (Cohen, 1962), the chances are that in three repli-
-cations only one in eight would result in signi?cant results,
-in all three replications, and in ?ve replications, the
-chance of as many as three of them being signi?cant is
+work (Cohen, 1962), the chances are that in three replications only one in eight would result in signiÔ¨Åcant results,
+in all three replications, and in Ô¨Åve replications, the
+chance of as many as three of them being signiÔ¨Åcant is
 only 50:50.
 An error in elementary logic made frequently by
 NHST proponents and pointed out by its critics is the
-thoughtless, usually implicit, conclusion that if H0 is re-
-jected, then the theory is established: IfA then B; B there-
-fore A. But even the valid form of the syllogism (ifA then
+thoughtless, usually implicit, conclusion that if H0 is rejected, then the theory is established: If A then B; B therefore A. But even the valid form of the syllogism (if A then
 B; not B therefore not A) can be misinterpreted. Meehl
 (1990a, 1990b) pointed out that in addition to the theory
 that led to the test, there are usually several auxiliary
 theories or assumptions and ceteris paribus clauses and
 that it is the logical product of these that is counterpoised
 against H0. Thus, when H0 is rejected, it can be because
-of the falsity of any of the auxiliary theories about in-
-strumentation or the nature of the psyche or of the ceteris
+of the falsity of any of the auxiliary theories about instrumentation or the nature of the psyche or of the ceteris
 paribus clauses, and not of the substantive theory that
 precipitated the research.
-So even when used and interpreted ìproperly,î with
-a signi?cance criterion (almost always p < .05) set a priori
-(or more frequently understood), H0 has little to com-
-mend it in the testing of psychological theories in its usual
-reject-H0-con?rm-the-theory form. The ritual dichoto-
-mous rejectóaccept decision, however objective and ad-
-ministratively convenient, is not the way any science is
-done. As Bill Rozeboom wrote in I960, ìThe primary
-aim of a scienti?c experiment is not to precipitate deci-
-sions, but to make an appropriate adjustment in the de-
- 
-December I994 - American Psychologist 999
-gree to which one . . . believes the hypothesis . . . being
-testedî (p. 420)
+So even when used and interpreted ‚Äúproperly,‚Äù with
+a signiÔ¨Åcance criterion (almost always p < .05) set a priori
+(or more frequently understood), H0 has little to commend it in the testing of psychological theories in its usual
+reject-H0-conÔ¨Årm-the-theory form. The ritual dichotomous reject‚Äîaccept decision, however objective and administratively convenient, is not the way any science is
+done. As Bill Rozeboom wrote in I960, ‚ÄúThe primary
+aim of a scientiÔ¨Åc experiment is not to precipitate decisions, but to make an appropriate adjustment in the de999
+
+gree to which one . . . believes the hypothesis . . . being
+tested‚Äù (p. 420)
+
 The Nil Hypothesis
 Thus far, I have been considering Hos in their most general
-senseóas propositions about the state ofaffairs in a pop-
-ulation, more particularly, as some speci?ed value of a
-population parameter. Thus, ìthe population mean dif-
-ference is 4î may be an H0, as may be ìthe proportion
-of males in this population is .75î and ìthe correlation
-in this population is .20.î But as almost universally used,
+sense‚Äîas propositions about the state of affairs in a population, more particularly, as some speciÔ¨Åed value of a
+population parameter. Thus, ‚Äúthe population mean difference is 4‚Äù may be an H0, as may be ‚Äúthe proportion
+of males in this population is .75‚Äù and ‚Äúthe correlation
+in this population is .20.‚Äù But as almost universally used,
 the null in H0 is taken to mean nil, zero. For Fisher, the
-null hypothesis was the hypothesis to be nulli?ed. As if
-things were not bad enough in the interpretation, or mis-
-interpretation, of NHST in this general sense, things get
+null hypothesis was the hypothesis to be nulliÔ¨Åed. As if
+things were not bad enough in the interpretation, or misinterpretation, of NHST in this general sense, things get
 downright ridiculous when H0 is to the effect that the
 effect size (ES) is 0--that the population mean difference
-is 0, that the correlation is 0, that the proportion ofmales
-is .50, that the ratersí reliability is 0 (an H0 that can almost
-always be rejected, even with a small sampleóHeaven
-help usl). Most of the criticism ofNHST in the literature
+is 0, that the correlation is 0, that the proportion of males
+is .50, that the raters‚Äô reliability is 0 (an H0 that can almost
+always be rejected, even with a small sample‚ÄîHeaven
+help usl). Most of the criticism of NHST in the literature
 has been for this special case where its use may be valid
 only for true experiments involving randomization (e.g.,
 controlled clinical trials) or when any departure from
 pure chance is meaningful (as in laboratory experiments
-on clairvoyance), but even in these cases, con?dence in-
-tervals provide more information. I henceforth refer to
-the H0 that an ES = 0 as the ìnil hypothesis.î
+on clairvoyance), but even in these cases, conÔ¨Ådence intervals provide more information. I henceforth refer to
+the H0 that an ES = 0 as the ‚Äúnil hypothesis.‚Äù
 My work in power analysis led me to realize that the
 nil hypothesis is always false. If I may unblushingly quote
 myself,
-It can only be true in the bowels ofa computer processor running
+It can only be true in the bowels of a computer processor running
 a Monte Carlo study (and even then a stray electron may make
 it false). If it is false, even to a tiny degree, it must be the case
-that a large enough sample will produce a signi?cant result and
+that a large enough sample will produce a signiÔ¨Åcant result and
 lead to its rejection. So if the null hypothesis is always false,
-whatís the big deal about rejecting it? (p. 1308)
+what‚Äôs the big deal about rejecting it? (p. 1308)
+
 l wrote that in 1990. More recently I discovered that
 in I938, Berkson wrote
 It would be agreed by statisticians that a large sample is always
@@ -375,179 +399,164 @@ that will result from an application of the Chi-square test to a
 large sample, there would seem to be no use in doing it on a
 smaller one. But since the result of the former test is known, it
 is no test at all. (p. 526f)
-Tukey (I991) wrote that ìIt is foolish to ask ëAre
-the effects of A and B different?í They are always differ-
-entófor some decimal placeî (p. 100).
+
+Tukey (I991) wrote that ‚ÄúIt is foolish to ask ‚ÄòAre
+the effects of A and B different?‚Äô They are always different‚Äîfor some decimal place‚Äù (p. 100).
 The point is made piercingly by Thompson (-1992):
-Statistical signi?cance testing can involve a tautological logic in
+Statistical signiÔ¨Åcance testing can involve a tautological logic in
 which tired researchers, having collected data on hundreds of
 subjects, then. conduct a statistical test to evaluate whether there
-were a lot of subjects, which the researchers already know, be-
-cause they collected the data and know they are tired. This
-tautology has created considerable damage as regards the cu-
-mulation of knowledge. (p. 436)
-In an unpublished study, Meehl and Lykken cross-
-tabulated 15 items for a sample of 57,000 Minnesota
-high school students, including fatherís occupation, fa-
-therís education, motherís education, number of siblings,
+were a lot of subjects, which the researchers already know, because they collected the data and know they are tired. This
+tautology has created considerable damage as regards the cumulation of knowledge. (p. 436)
+
+In an unpublished study, Meehl and Lykken crosstabulated 15 items for a sample of 57,000 Minnesota
+
+high school students, including father‚Äôs occupation, father‚Äôs education, mother‚Äôs education, number of siblings,
 sex, birth order, educational plans, family attitudes toward
-college, whether they liked school, college choice, occu-
-pational plan in I0 years, religious preference, leisure time
+college, whether they liked school, college choice, occupational plan in I0 years, religious preference, leisure time
 activities, and high school organizations. All of the 105
-chi-squares that these 15 items produced by the cross-
-tabulations were statistically signi?cant, and 96% ofthem
+chi-squares that these 15 items produced by the crosstabulations were statistically signiÔ¨Åcant, and 96% ofthem
 at p < .00000I (Meehl, 1990b).
-One might say, ìWith 57,000 cases, relationships as
-small as a Cramef qtª of .02-.03 will be signi?cant at p <
-.000001, so whatís the big deal?î Well, the big deal is that
-many of the relationships were much larger than .03. En-
-ter the Meehl ìcrud factor,î more genteelly called by
-Lykken ìthe ambient correlation noise.î In soft psy-
-chology, ìEverything is related to everything else.î Meehl
+One might say, ‚ÄúWith 57,000 cases, relationships as
+small as a Cramef qt¬ª of .02-.03 will be signiÔ¨Åcant at p <
+.000001, so what‚Äôs the big deal?‚Äù Well, the big deal is that
+many of the relationships were much larger than .03. Enter the Meehl ‚Äúcrud factor,‚Äù more genteelly called by
+Lykken ‚Äúthe ambient correlation noise.‚Äù In soft psychology, ‚ÄúEverything is related to everything else.‚Äù Meehl
 acknowledged (1990b) that neither he nor anyone else
 has accurate knowledge about the size of the crud factor
-in a given research domain, ìbut the notion that the cor-
-relation between arbitrarily paired trait variables will be,
+in a given research domain, ‚Äúbut the notion that the correlation between arbitrarily paired trait variables will be,
 while not literally zero, ofsuch minuscule size as to be of
-no importance, is surely wrongî (p. 212, italics in original).
+no importance, is surely wrong‚Äù (p. 212, italics in original).
 Meehl (1986) considered a typical review article on
-the evidence for some theory based on nil hypothesis test-
-ing that reports a 16:4 box score in favor of the theory.
+the evidence for some theory based on nil hypothesis testing that reports a 16:4 box score in favor of the theory.
 After taking into account the operation of the crud factor,
-the bias against reporting and publishing ìnegativeî re-
-sults (Rosenthalís, 1979, ì?le drawerî problem), and as-
-suming power of .75, he estimated the likelihood ratio of
+the bias against reporting and publishing ‚Äúnegative‚Äù results (Rosenthal‚Äôs, 1979, ‚ÄúÔ¨Åle drawer‚Äù problem), and assuming power of .75, he estimated the likelihood ratio of
 the theory against the crud factor as 1:1. Then, assuming
 that the prior probability of theories in soft psychology
-is 5.10, he concluded that the Bayesian posterior prob-
-ability is also s.l0 (p. 327f). So a 16:4 box score for a
+is 5.10, he concluded that the Bayesian posterior probability is also s.l0 (p. 327f). So a 16:4 box score for a
 theory becomes, more realistically, a 9:1 odds ratio
 against it.
 Meta-analysis, with its emphasis on effect sizes, is a
 bright spot in the contemporary scene. One of its major
 contributors and proponents, Frank Schmidt (1992),
 provided an interesting perspective on the consequences
-of current NHST-driven research in the behavioral sci-
-ences. He reminded researchers that, given the fact that
-the nil hypothesis is always false, the rate ofType I errors
+of current NHST-driven research in the behavioral sciences. He reminded researchers that, given the fact that
+the nil hypothesis is always false, the rate of Type I errors
 is 0%, not 5%, and that only Type II errors can be made,
 which run typically at about 50% (Cohen, 1962; Sedlmeier
 & Gigerenzer, 1989). He showed that typically, the sample
-effect size necessary for signi?cance is notably larger than
+effect size necessary for signiÔ¨Åcance is notably larger than
 the actual population effect size and that the average of
-the statistically signi?cant effect sizes is much larger than
+the statistically signiÔ¨Åcant effect sizes is much larger than
 the actual effect size. The result is that people who do
 focus on effect sizes end up with a substantial positive
 bias in their effect size estimation. Furthermore, there is
-the irony that the ìsophisticatesî who use procedures to
-adjust their alpha error for multiple tests (using Bonfer-
-roni, Newman-Keuls, etc.) are adjusting for a nonexistent
+the irony that the ‚Äúsophisticates‚Äù who use procedures to
+adjust their alpha error for multiple tests (using Bonferroni, Newman-Keuls, etc.) are adjusting for a nonexistent
 alpha error, thus reduce their power, and, if lucky enough
-to get a signi?cant result, only end up grossly overesti-
-mating the population effect size!
+to get a signiÔ¨Åcant result, only end up grossly overestimating the population effect size!
 Because NHST p values have become the coin of
 the realm in much of psychology, they have served to
- iIq i i 1' W $2
-I 000 December 1994 - American Psychologist
-inhibit its development as a science. Go build a quanti-
-tative science with p values! All psychologists know that
-statistically signi?cant does not mean plain-English sig-
-ni?cant, but if one reads the literature, one often discovers
-that a ?nding reported in the Results section studded
-with asterisks implicitly becomes in the Discussion sec-
-tion highly signi?cant or very highly signi?cant, impor-
-tant, big!
+iIq
+
+I 000
+
+i
+
+i
+
+1'
+
+W
+
+$2
+
+December 1994 - American Psychologist
+
+inhibit its development as a science. Go build a quantitative science with p values! All psychologists know that
+statistically signiÔ¨Åcant does not mean plain-English signiÔ¨Åcant, but if one reads the literature, one often discovers
+that a Ô¨Ånding reported in the Results section studded
+with asterisks implicitly becomes in the Discussion section highly signiÔ¨Åcant or very highly signiÔ¨Åcant, important, big!
 Even a correct interpretation of p values does not
 achieve very much, and has not for a long time. Tukey
-(I991) warned that if researchers fail to reject a nil hy-
-pothesis about the difference between A and B, all they
-can say is that the direction of the difference is ìuncer-
-tain.î If researchers reject the nil hypothesis then they
-can say they can be pretty sure of the direction, for ex-
-ample, ìA is larger than B.î But if all we, as psychologists,
+(I991) warned that if researchers fail to reject a nil hypothesis about the difference between A and B, all they
+can say is that the direction of the difference is ‚Äúuncertain.‚Äù If researchers reject the nil hypothesis then they
+can say they can be pretty sure of the direction, for example, ‚ÄúA is larger than B.‚Äù But if all we, as psychologists,
 learn from a research is that A is larger than B (p < .01),
 we have not learned very much. And this is typically all
-we learn. Con?dence intervals are rarely to be seen in
+we learn. ConÔ¨Ådence intervals are rarely to be seen in
 our publications. In another article (Tukey, 1969), he
 chided psychologists and other life and behavior scientists
-with the admonition ìAmount, as well as direction is
-vitalî and went on to say the following:
+with the admonition ‚ÄúAmount, as well as direction is
+vital‚Äù and went on to say the following:
 The physical scientists have learned much by storing up
 amounts, not just directions. If, for example, elasticity had been
-con?ned to ìWhen you pull on it, it gets longerl,î Hookeís law,
+conÔ¨Åned to ‚ÄúWhen you pull on it, it gets longerl,‚Äù Hooke‚Äôs law,
 the elastic limit, plasticity, and many other important topics
 could not have appeared (p. 86). . . . Measuring the right things
 on a communicable scale lets us stockpile information about
 amounts. Such information can be useful, whether or not the
-chosen scale is an interval scale. Before the second law of ther-
-modynamics-and there were many decades of progress in
-physics and chemistry before it appearedóthe scale of temper-
-ature was not, in any nontrivial sense, an interval scale. Yet
-these decades ofprogress would have been impossible had phys-
-icists and chemists refused either to record temperatures or to
+chosen scale is an interval scale. Before the second law of thermodynamics-and there were many decades of progress in
+physics and chemistry before it appeared‚Äîthe scale of temperature was not, in any nontrivial sense, an interval scale. Yet
+these decades of progress would have been impossible had physicists and chemists refused either to record temperatures or to
 calculate with them. (p. 80)
+
 In the same vein, Tukey (1969) complained about
 correlation coefficients, quoting his teacher, Charles
 Winsor, as saying that they are a dangerous symptom.
 Unlike regression coefficients, correlations are subject to
 vary with selection as researchers change populations. He
-attributed researchersí preference for correlations to their
+attributed researchers‚Äô preference for correlations to their
 avoidance of thinking about the units with which they
 measure.
 Given two perfectly meaningless variables, one is reminded of
 their meaninglessness when a regression coefficient is given, since
-one wonders how to interpret its value. . . . Being so uninter-
-ested in our variables that we do not care about their units can
+one wonders how to interpret its value. . . . Being so uninterested in our variables that we do not care about their units can
 hardly be desirable. (p. 89)
-The major problem with correlations applied to re-
-search data is that they can not provide useful information
+
+The major problem with correlations applied to research data is that they can not provide useful information
 on causal strength because they change with the degree
-of variability of the variables they relate. Causality op-
-erates on single instances, not on populations whose
+of variability of the variables they relate. Causality operates on single instances, not on populations whose
 members vary. The effect of A on B for me can hardly
-depend on whether Iím in a group that varies greatly in
+depend on whether I‚Äôm in a group that varies greatly in
 A or another that does not vary at all. It is not an accident
+December 1994 - American Psychologist
+
 that causal modeling proceeds with regression and not
 correlation coefficients. In the same vein, I should note
 that standardized effect size measures, such as d and ji
-developed in power analysis (Cohen, I988) are, like cor-
-relations, also dependent on population variability of the
+developed in power analysis (Cohen, I988) are, like correlations, also dependent on population variability of the
 dependent variable and are properly used only when that
 fact is kept in mind .
-To work constructively with ìrawî regression coef-
-?cients and con?dence intervals, psychologists have to
-start respecting the units they work with, or develop mea-
-surement units they can respect enough so that research-
-ers in a given ?eld or sub?eld can agree to use them. In
-this way, there can be hope that researchersí knowledge
+To work constructively with ‚Äúraw‚Äù regression coefÔ¨Åcients and conÔ¨Ådence intervals, psychologists have to
+start respecting the units they work with, or develop measurement units they can respect enough so that researchers in a given Ô¨Åeld or subÔ¨Åeld can agree to use them. In
+this way, there can be hope that researchers‚Äô knowledge
 can be cumulative. There are few such in soft psychology.
 A beginning in this direction comes from meta-analysis,
-which, whatever else it may accomplish, has at least fo-
-cused attention on effect sizes. But imagine how much
+which, whatever else it may accomplish, has at least focused attention on effect sizes. But imagine how much
 more fruitful the typical meta-analysis would be if the
-research covered used the same measures for the con-
-structs they studied. Researchers could get beyond using
-a mass of studies to demonstrate convincingly that ìif
-you pull on it, it gets longer.î
-Recall my example of the highly signi?cant corre-
-lation between height and intelligence in 14,000 school
-children that translated into a regression coe?icient that
-meant that to raise a childís IQ from 100 to 130 would
+research covered used the same measures for the constructs they studied. Researchers could get beyond using
+a mass of studies to demonstrate convincingly that ‚Äúif
+you pull on it, it gets longer.‚Äù
+Recall my example of the highly signiÔ¨Åcant correlation between height and intelligence in 14,000 school
+children that translated into a regression coeÔ¨Çicient that
+meant that to raise a child‚Äôs IQ from 100 to 130 would
 require giving enough growth hormone to raise his or her
 height by I4 feet (Cohen, 1990).
+
 What to Do?
-First, donít look for a magic alternative to NHST, some
-other objective mechanical ritual to replace it. It doesnít
+First, don‚Äôt look for a magic alternative to NHST, some
+other objective mechanical ritual to replace it. It doesn‚Äôt
 exist.
+
 Second, even before we, as psychologists, seek to
 generalize from our data, we must seek to understand
-and improve them. A major breakthrough to the ap-
-proach to data, emphasizing ìdetective workî rather than
-ìsancti?cationî was heralded by John Tukey in his article
-ìThe Future of Data Analysisî (1962) and detailed in his
+and improve them. A major breakthrough to the approach to data, emphasizing ‚Äúdetective work‚Äù rather than
+‚ÄúsanctiÔ¨Åcation‚Äù was heralded by John Tukey in his article
+‚ÄúThe Future of Data Analysis‚Äù (1962) and detailed in his
 seminal book Exploratory Data Analysis (EDA; 1977).
 EDA seeks not to vault to generalization to the population
-but by simple, ?exible, informal, and largely graphic
+but by simple, Ô¨Çexible, informal, and largely graphic
 techniques aims for understanding the set of data in hand.
 Important contributions to graphic data analysis have
 since been made by Tufte (I983, 1990), Cleveland (1993;
@@ -556,25 +565,22 @@ chapter-length treatment by Wainer and Thissen (1981),
 recently updated (Wainer & Thissen, 1993), provides
 many useful references, and statistical program packages
 provide the necessary software (see, for an example, Lee
-Wilkinsonís [1990] SYGRAPH, which is presently being
+Wilkinson‚Äôs [1990] SYGRAPH, which is presently being
 updated).
 Forty-two years ago, Frank Yates, a close colleague
-and friend ofR. A. Fisher, wrote about Fisherís ìStatistical
-Methods for Research Workersî (1925/195 1),
-It has caused scienti?c research workers to pay undue attention
-to the results of the tests of signi?cance they perform on their
+and friend of R. A. Fisher, wrote about Fisher‚Äôs ‚ÄúStatistical
+Methods for Research Workers‚Äù (1925/195 1),
+It has caused scientiÔ¨Åc research workers to pay undue attention
+to the results of the tests of signiÔ¨Åcance they perform on their
 data . . . and too little to the estimates of the magnitude of the
 effects they are estimating (p. 32).
- 
-December 1994 - American Psychologist 1001!
-Thus, my third recommendation is that, as re-
-searchers, we routinely report e?ect sizes in the form of
-con?dence limits. ìEveryone knowsî that con?dence in-
-tervals contain all the information to be found in signif-
-icance tests and much more. They not only reveal the
+
+1001!
+
+Thus, my third recommendation is that, as researchers, we routinely report eÔ¨Åect sizes in the form of
+conÔ¨Ådence limits. ‚ÄúEveryone knows‚Äù that conÔ¨Ådence intervals contain all the information to be found in significance tests and much more. They not only reveal the
 status of the trivial nil hypothesis but also about the status
-of non-nil null hypotheses and thus help remind re-
-searchers about the possible operation of the crud factor.
+of non-nil null hypotheses and thus help remind researchers about the possible operation of the crud factor.
 Yet they are rarely to be found in the literature. I suspect
 that the main reason they are not reported is that they
 are so embarrassingly large! But their sheer size should
@@ -582,45 +588,146 @@ move us toward improving our measurement by seeking
 to reduce the unreliable and invalid part of the variance
 in our measures (as Student himself recommended almost
 a century ago). Also, their width provides us with the
-analogue ofpower analysis in signi?cance testing-larger
-sample sizes reduce the size of con?dence intervals as
-they increase the statistical power of NHST. A new pro-
-gram covers con?dence intervals for mean differences,
+analogue of power analysis in signiÔ¨Åcance testing-larger
+sample sizes reduce the size of conÔ¨Ådence intervals as
+they increase the statistical power of NHST. A new program covers conÔ¨Ådence intervals for mean differences,
 correlation, cross-tabulations (including odds ratios and
 relative risks), and survival analysis (Borenstein, Cohen,
-& Rothstein, in press). It also produces Birnbaumís ( 1961)
-ìcon?dence curves,î from which can be read all con?-
-dence intervals from 50% to 100%, thus obviating the
-necessity of choosing a speci?c con?dence level for pre-
-sentation.
-As researchers, we have a considerable array of sta-
-tistical techniques that can help us ?nd our way to theories
+& Rothstein, in press). It also produces Birnbaum‚Äôs ( 1961)
+‚ÄúconÔ¨Ådence curves,‚Äù from which can be read all conÔ¨Ådence intervals from 50% to 100%, thus obviating the
+necessity of choosing a speciÔ¨Åc conÔ¨Ådence level for presentation.
+As researchers, we have a considerable array of statistical techniques that can help us Ô¨Ånd our way to theories
 of some depth, but they must be used sensibly and be
-heavily informed by informed judgment. Even null hy-
-pothesis testing complete with power analysis can be use-
-ful if we abandon the rejection of point nil hypotheses
-and use instead ìgood-enoughî range null hypotheses
-(e.g., ìthe effect size is no larger than 8 raw score units,
+heavily informed by informed judgment. Even null hypothesis testing complete with power analysis can be useful if we abandon the rejection of point nil hypotheses
+and use instead ‚Äúgood-enough‚Äù range null hypotheses
+(e.g., ‚Äúthe effect size is no larger than 8 raw score units,
 or d = .5), as Serlin and Lapsley (1993) have described
 in detail. As our measurement and theories improve, we
-can begin to achieve the Popperian principle of repre-
-senting our theories as null hypotheses and subjecting
+can begin to achieve the Popperian principle of representing our theories as null hypotheses and subjecting
 them to challenge, as Meehl (1967) argued many years
 ago. With more evolved psychological theories, we can
-also ?nd use for likelihood ratios and Bayesian methods
-(Goodman, 1993; Greenwald, 1975). We quantitative be-
-havioral scientists need not go out of business.
+also Ô¨Ånd use for likelihood ratios and Bayesian methods
+(Goodman, 1993; Greenwald, 1975). We quantitative behavioral scientists need not go out of business.
 Induction has long been a problem in the philosophy
 of science. Meehl (1990a) attributed to the distinguished
-philosopher Morris Raphael Cohen the saying ìAll logic
-texts are divided into two parts. In the ?rst part, on de-
-ductive logic, the fallacies are explained; in the second
-part, on inductive logic, they are committedî (p. 110).
+philosopher Morris Raphael Cohen the saying ‚ÄúAll logic
+texts are divided into two parts. In the Ô¨Årst part, on deductive logic, the fallacies are explained; in the second
+part, on inductive logic, they are committed‚Äù (p. 110).
 We appeal to inductive logic to move from the particular
 results in hand to a theoretically useful generalization.
 As I have noted, we have a body of statistical techniques,
-that, used intelligently, can facilitate our e?brts. But given
-the problems ofstatistical induction, we must ?nally rely,
+that, used intelligently, can facilitate our eÔ¨Åbrts. But given
+the problems of statistical induction, we must Ô¨Ånally rely,
 as have the older sciences, on replication.
+REFERENCES
 
+Bakan, D. (1966). The test of signiÔ¨Åcance in psychological research.
+Ps_vchological Bulletin, 66, l-29.
 
+1002
+
+Berkson, J . (1938). Some difficulties of interpretation encountered in
+the application of the chi-square test. Journal of the American Statistical Association, 33, 526-542.
+Birnbaum, A. (1961). ConÔ¨Ådence curves: An omnibus technique for
+estimation and testing statistical hypotheses. Journal ofthe American
+Statistical Association, 56, 246-249.
+Borenstein, M., Cohen, J ., & Rothstein, H. (in press). ConÔ¨Ådence intervals. e/jfect size. and power [Computer program]. Hillsdale, NJ: Erlbaum.
+Cleveland, W. S. (1993). Vi'suali'zi'ng data. Summit, NJ: Hobart.
+Cleveland, W. S., & McGill, M. E. (Eds.). (1988). Dynamic graphicsjor
+statistics. Belmont, CA: Wadsworth.
+Cohen. J. (1962). The statistical power ofabnormal-social psychological
+research: A review. Journal of'Al>norinal and Social Ps_vcholog_t-1 69,
+145-153.
+
+Cohen. J. (1988). Statistical power anal_vsis'_for the behavioral sciences
+(2nd ed.). Hillsdale. NJ: Erlbaum.
+Cohen, J . (1990). Things l have learned (so far). American Psychologist.
+45, 1304-1312.
+Dawes, R. M. (1988). Rational choice in an uncertain world. San Diego,
+CA: Harcourt Brace Jovanovich.
+Falk, R., & Greenbaum, C. W. (in press). SigniÔ¨Åcance tests die hard:
+The amazing persistence of a probabilistic misconception. Theory
+and Psychology.
+Fisher, R. A. (1951). Statistical rnethodsfor research workers. Edinburgh,
+Scotland: Oliver & Boyd. (Original work published 1925)
+Gigerenzer, G. (I993). The superego, the ego, and the id in statistical
+reasoning. In G. Keren & C. Lewis (Ed.), A handboolcfor data anal_v.s'is
+in the behavioral sciences." Methodological issues (pp. 31 1-339).
+Hillsdale, NJ: Erlbaum.
+Goodman, S. N. (i993). P values, hypothesis tests, and likelihood implications for epidemiology: Implications of a neglected historical debate. American Journal oflfpiderniology, I 3 7, 485-496.
+Greenwald, A. G. (1975). Consequences of prejudice against the null
+hypothesis. Psychological Bulletin. 82, 1-20.
+Hogben, L. (1957). Statistical theory. London: Allen & Unwin.
+Lykken, D. E. (1968). Statistical signiÔ¨Åcance in psychological research.
+Psychological Bulletin, 70. 151-159.
+Meehl, P. E. (1967). Theory testing in psychology and physics: A methodological paradox. Philosophy ofScience, 34, 103-115.
+Meehl. P. E. (1978). Theoretical risks and tabular asterisks: Sir Karl, Sir
+Ronald. and the slow progress ofsoft psychology. Journal ofConsulting
+and Clinical Ps,vcholog_t-1 46, 806-834.
+Meehl, P. E. (1986). What social scientists don‚Äôt understand. In D. W.
+Fiske & R. A. Shweder (Eds.), Metatheory in social science: Pluralisms
+and sulijectivities (pp. 315-338). Chicago: University of Chicago Press.
+Meehl, P. (1990a). Appraising and amending theories: The strategy of
+Lakatosian defense and two principles that warrant it. Psychological
+Inquiry, I, 108-141.
+Meehl, P. E. (1990b). Why summaries of research on psychological theories are often uninterpretable. Psychological Reports. 66(Monograph
+Suppl. 1-V66), 195-244.
+Morrison. D. E., & Henkel, R. E. (Eds). (1970). The signiÔ¨Åcance test
+controversji Chicago: Aldine.
+Oakes, M. (1986). Statistical inference: A comrnentaryfor the social and
+behavioral sciences. New York: Wiley.
+Pollard, P., & Richardson. J. T. E. (1987). On the probability of making
+Type I errors. Ps_vchological Bulletin, 102, 159-163.
+Popper, K. (1959). The logic ofscientiÔ¨Åc discovery London: Hutchinson.
+Rosenthal, R. (1979). The ‚ÄúÔ¨Åle drawer problem" and tolerance for null
+results. Psychological Bulletin, 86, 638-641.
+Rosenthal, R. (1993). Cumulating evidence. In G. Keren & C. Lewis
+(Ed.), A handbook for data analysis in the behavioral sciences: Methodological issues (pp. 519-559). Hillsdale, NJ: Erlbaum.
+Rozeboom, W. W. (1960). The fallacy of the null hypothesis signiÔ¨Åcance
+test. Psychological Bulletin, 57, 416-428.
+Schmidt, F. L. (1992). What do data really mean‚Äò? Research Ô¨Åndings,
+meta-analysis, and cumulative knowledge in psychology. American
+Psychologist, 47. 1173-1181.
+
+Sedlmeier, P., & Gigerenzer, G. (1989). Do studies of statistical power
+
+December 1994 - American Psychologist
+
+have an effect on the power of studies? Psychological Bulletin, 105.
+309-316.
+Serlin, R. A., & Lapsley, D. K. (1993). Rational appraisal of psychological
+research and the good-enough principle. In G. Keren & C. Lewis
+(Eds.). A handbookfor data analysis" in the behavioral sciences: Methodological issues (pp. 199-228). Hillsdale, NJ: Erlbaum.
+Thompson, B. (1992). Two and one-halfdecades of leadership in measurement and evaluation. Journal of Counseling and Development,
+70. 434-438.
+Tufte. E. R. (1983). The visual display o/'qttantitative inlorinati'on.
+Cheshire, CT: Graphics Press.
+Tufte. E. R. (1990). Envisioning information. Cheshire. CT: Graphics
+Press.
+Tukey. J . W. (1962). The future of data analysis. Annals ol'Mathernatical
+Stati.s'tics, 33, 1-67.
+Tukey, J. W. (1969). Analyzing data: SanctiÔ¨Åcation or detective work?
+American Psychologist, 24, 83-91.
+
+December 1994 - American Psychologist
+
+Tukey, J. W. (1977). Exploratory data analysis. Reading, MA: AddisonWesley.
+Tukey. J . W. ( 1991). The philosophy of multiple comparisons. Statistical
+Science, 6, 100-116.
+Tversky, A., & Kahneman. D. (1971). Belief in the law of small numbers.
+Psychological Bulletin, 76, 105-110.
+Wainer, H.. & Thissen, D. (1981)- Graphical data analysis. In M. R.
+Rosenzweig & L. W. Porter (Eds.), Annual review o/'p.sycholog_v (pp.
+191-241). Palo Alto, CA: Annual Reviews.
+Wainer, H., & Thissen, D. (1993). Graphical data analysis. In G. Keren
+& C. Lewis (Eds.), A handboolc for data analysis in the behavioral
+sciences: Statistical issues (pp. 391-457). Hillsdale, NJ: Erlbaum.
+Wilkinson, L. (1990). S YGRAPH: The system _/or graphics. Evanston,
+IL: SYSTAT.
+Yates, F. (1951). The inÔ¨Çuence of statistical methods for research workers
+on the development of the science of statistics. Journal ofthe American
+Statistical A.s'sociation, 46. 19-34.
+
+1003
+
+
